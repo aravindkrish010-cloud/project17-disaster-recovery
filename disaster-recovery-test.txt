@@ -1,0 +1,1 @@
+This file proves geo-redundant storage works. Created: Sun Sep  6 18:48:09 CEST 2026
