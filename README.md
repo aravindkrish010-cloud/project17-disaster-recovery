@@ -8,6 +8,7 @@ Configured Read-Access Geo-Redundant Storage (RA-GRS), proved data genuinely rep
 Storage Account (learnclouddr9231) — RA-GRS
 ├── Primary region: swedencentral
 └── Secondary region: swedensouth (Azure's automatic pairing)
+```
 
 Before failover:
 File uploaded to primary -> automatically replicated to secondary
